@@ -15,6 +15,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 
 ### Vista previa del proyecto 💖
 ![image](https://github.com/LitziSanchez/Pinterest-Clone/assets/77827671/1abf24c2-df22-4757-9cf1-830ca193b247)
+[Ver proyecto online](https://litzisanchez.github.io/Pinterest-Clone)
 
 ### Contacto ✌
 Litzi Sánchez: [Mi LinkedIn](https://www.linkedin.com/in/litzisanchez/)
