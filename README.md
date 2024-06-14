@@ -8,7 +8,7 @@ Este proyecto es un clon de la interfaz de inicio de Pinterest, creado puramente
 + **Interacciones dinámicas:** Efectos visuales para elementos interactivos como botones y enlaces.
 + **Iconografía y estilos modernos:** Uso de la biblioteca de iconos de Material Design y estilos CSS modernos para una apariencia cool.
 
-###💻 Tecnologías utilizadas
+### 💻 Tecnologías utilizadas
 + **HTML5:** Para la estructura básica del sitio.
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo.
 + **Google Icons** Para iconos personalizados.
